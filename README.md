@@ -13,20 +13,18 @@ Analyze customer financial data to evaluate default risk using data cleaning, ex
 - Model Evaluation
 
 ## Tools used 
-
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ## Models Applied
 
-Logistic Regression
-Random Forest
+- Logistic Regression
+- Random Forest
 
 ## Key Findings
-Accuracy alone was insufficient due to class imbalance
-Recall and ROC-AUC provided better insight for default prediction
-Balanced models improved identification of high-risk customers
+- Accuracy alone was insufficient due to class imbalance
+- Recall and ROC-AUC provided better insight for default prediction
+- Balanced models improved identification of high-risk customers
