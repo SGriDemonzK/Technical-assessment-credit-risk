@@ -5,12 +5,12 @@
 Analyze customer financial data to evaluate default risk using data cleaning, exploratory data analysis, and machine learning models.
 
 ## Skills Demonstrated
-Data Cleaning
-Exploratory Data Analysis
-Feature Engineering
-Regression
-Classification
-Model Evaluation
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Regression
+- Classification
+- Model Evaluation
 
 ## Tools used 
 
