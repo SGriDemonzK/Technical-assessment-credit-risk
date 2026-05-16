@@ -4,7 +4,7 @@
 
 Analyze customer financial data to evaluate default risk using data cleaning, exploratory data analysis, and machine learning models.
 
-##Skills Demonstrated
+## Skills Demonstrated
 Data Cleaning
 Exploratory Data Analysis
 Feature Engineering
@@ -21,12 +21,12 @@ Matplotlib
 Seaborn
 Scikit-learn
 
-##Models Applied
+## Models Applied
 
 Logistic Regression
 Random Forest
 
-##Key Findings
+## Key Findings
 Accuracy alone was insufficient due to class imbalance
 Recall and ROC-AUC provided better insight for default prediction
 Balanced models improved identification of high-risk customers
